@@ -48,7 +48,7 @@ The database contains **12 tables**:
 
 ## 📁 Project Contents
 
-* **Database Schema** — Table definitions, keys, and constraints
+* **Database Schema** — The SQL schema contains the table definitions, primary keys, foreign keys, and constraints used to build the Enterprise Database.
 * **Dataset** — Sample records for the tables
 * **ERD** — Entity Relationship Diagram showing table relationships
 * **SQL Queries** — Database operations and analysis
