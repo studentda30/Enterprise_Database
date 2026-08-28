@@ -1,7 +1,7 @@
 
 ## Enterprise Database
 
-**Enterprise Database — Enterprise Database — MySQL relational database project with SQL schema, dataset, ERD, primary/foreign keys, constraints, and business data analysis.**
+** Enterprise Database — MySQL relational database project with SQL schema, dataset, ERD, primary/foreign keys, constraints, and business data analysis.**
 
 ## 📌 Project Overview
 
